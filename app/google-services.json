@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "987419099553",
+    "firebase_url": "https://ateateple.firebaseio.com",
+    "project_id": "ateateple",
+    "storage_bucket": "ateateple.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987419099553:android:45189290e0379297",
+        "android_client_info": {
+          "package_name": "com.sitimapps.ateple.ate.ateateple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987419099553-nh6o6k5kvm5ktumt8ancsp8257r6vi2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitimapps.ateple.ate.ateateple",
+            "certificate_hash": "5285356ed81363a5229e0a7c749f0f5c7d0baba7"
+          }
+        },
+        {
+          "client_id": "987419099553-sm0vdp2d53vqj7b1k0gg95ss2jeec16b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitimapps.ateple.ate.ateateple",
+            "certificate_hash": "d41b7e502ca37b919db87b6df886833f27072a9e"
+          }
+        },
+        {
+          "client_id": "987419099553-racbjrm9dv000d22nco96pmtappdf7d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitimapps.ateple.ate.ateateple",
+            "certificate_hash": "60f43890c53695fe75b054f86ca3a5c06093015a"
+          }
+        },
+        {
+          "client_id": "987419099553-mftfcumehtl6s99fga79vorv52dj2vp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvA5n9RL7RGMQ6D6LQyzoiMQjfDT_550"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987419099553-mftfcumehtl6s99fga79vorv52dj2vp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
