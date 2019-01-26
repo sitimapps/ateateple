@@ -27,7 +27,7 @@ public class LoginActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener,
         View.OnClickListener {
 
-    private Button SignOut;
+    private Button SignOut; 
     private SignInButton SignIn;
     private GoogleApiClient googleApiClient;
     private static final int REQ_CODE = 9001;
